@@ -8,5 +8,10 @@ namespace ConsoleApplication1
 {
     class Class1
     {
+        public int VratiBroj(){
+        
+        
+        return 0;
+        }
     }
 }
